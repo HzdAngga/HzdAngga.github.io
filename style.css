@@ -1,0 +1,63 @@
+body {
+    background-color: aqua;
+
+}
+
+ul {
+    position: relative;
+    padding-top: 110px;
+    padding-left: 550px;
+    width: 100%
+}
+
+li {
+    display: inline;
+    margin-right: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    position: absolute;
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 60px;
+    padding-top: 20px;
+    width: 100%;
+    background-color: rgb(32, 121, 204)8, 122, 122);
+    border : double 10px
+}
+
+section {
+    padding-top: 120px;
+    text-align: center;
+    font-size: 24px;
+    ;
+}
+
+#pesanan {
+    position: relative;
+    margin-left: 500px;
+    width: 25%;
+    border: solid;
+    border-radius: 30px;
+    padding: 30px;
+    background-color: rgb(173, 42, 42)
+
+}
+
+.sajian {
+    position: relative;
+    margin-left: 505px;
+    width: 25%;
+    padding: 30px;
+    opacity: 50%;
+
+}
+
+#wait {
+    background-color: green;
+}
+
+#wait h1 {
+    text-align: center;
+}
