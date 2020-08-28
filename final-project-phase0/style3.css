@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-image: url("img/bonus.jpg");
+}
+
+
+
+audio {
+    background-color: rgb(247, 247, 247);
+    position : fixed;
+    bottom: 0;
+    text-align: center;
+    padding: 20px;
+    width: 98%;
+}
